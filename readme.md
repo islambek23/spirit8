@@ -1,7 +1,9 @@
 # This is my markdown title
 
-_**First Name**_  ###### Dzhumaliev Islambek
-* _**Contacts**_
+_**First Name:**_  Islambek
+_**Last Name:**_  Dzhumaliev
+
+* _**Contacts:**_
  * Telephone: 0552338338 
  * Email:     islambek_dzhumaliev@gmail.com
 
@@ -14,12 +16,12 @@ Also, I am thinking of to start freelancing in such freelance places as fl.ru an
 Upwork is the most possible option what I will choose later. Earning 10$+ in an hour is a best option.
 The most important thing for me is to become well known front developer in the world.
 
-__ ** Skills: ** __
+_**Skills:**_
 
 For the time being I am good at HTML and CSS. But I am still on my way to increase my skills in this area.
 After of course I will start learning Javascript to be able to construct full working websites with it's all possibilities.
 
-__ ** Code examples: ** __
+_**Code examples:**_
 
  <form action="#">
             <div class="row">
@@ -48,18 +50,18 @@ __ ** Code examples: ** __
         </form>
 
 
-__ ** Experience: ** __
+_**Experience:**_
 
 As I already mentioned before I am studying now at It-run academy. 
 Till this days I build some websites in order to be in my own collection of portfolio.
 So when I start sending my resume for intance to Mad devs I already will have some works done by me what of course will increase my value as a candidate.
 
-__ ** Education: ** __
+_**Education:**_
 
 I am graduated from Turkish "Manas" univercity. Have attented several
 courses like how to be good manager, this was due to my work as sales manager, later when I become high level manager they started to send me to such courses.
 Now I think that this is not important because I am willing to change my profession.
 
-__ ** English: ** __
+_**English:**_
 
 My english well, but because of lack of practice I started to forget what it is.
