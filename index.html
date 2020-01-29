@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link rel="stylesheet" href="./css/style.css">
 </head>
@@ -806,18 +808,47 @@
 
 <section id="testimonials">
     <div class="container">
-        <h2 class="section-title"><span>Our Clients`</span> testimonials</h2>
-        <p class="testimonials-description">This book is a treatise on the theory of ethics, very popular during
-            the Renaissance. The first line of Lorem
-            Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-        <p class="testimonials-description">Dean Martin, CEO Acme Inc.</p>
+        <div class="owl-carousel">
+            <div>
+                <h2 class="section-title"><span>Our Clients`</span> testimonials</h2>
+                <p class="testimonials-description">This book is a treatise on the theory of ethics, very popular during
+                    the Renaissance. The first line of Lorem
+                    Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+                <p class="testimonials-description">Dean Martin, CEO Acme Inc.</p>
+            </div>
+
+            <div>
+                <h2 class="section-title"><span>Our Clients`</span> testimonials</h2>
+                <p class="testimonials-description">This book is a treatise on the theory of ethics, very popular during
+                    the Renaissance. The first line of Lorem
+                    Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+                <p class="testimonials-description">Dean Martin, CEO Acme Inc.</p>
+            </div>
+
+            <div>
+                <h2 class="section-title"><span>Our Clients`</span> testimonials</h2>
+                <p class="testimonials-description">This book is a treatise on the theory of ethics, very popular during
+                    the Renaissance. The first line of Lorem
+                    Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+                <p class="testimonials-description">Dean Martin, CEO Acme Inc.</p>
+            </div>
+
+            <div>
+                <h2 class="section-title"><span>Our Clients`</span> testimonials</h2>
+                <p class="testimonials-description">This book is a treatise on the theory of ethics, very popular during
+                    the Renaissance. The first line of Lorem
+                    Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+                <p class="testimonials-description">Dean Martin, CEO Acme Inc.</p>
+            </div>
+        </div>
     </div>
 </section>
 
 <section id="form">
     <div class="container">
         <h2 class="section-title">Feel free to <span>contact us</span></h2>
-        <p class="form-section-description">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et
+        <p class="form-section-description">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum
+            et
             Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory
 
         <form action="#">
@@ -851,22 +882,45 @@
 <footer class="">
     <div class="container">
         <div class="row">
-        <div class="col-6">
-    <p class="footer-description">ALL RIGHTS RESERVED. COPYRIGHT © 2014 SPIRIT8</p>
-        </div>
-        <div class="col-6">
-    <ul>
-        <a href="#"><li class="footer-items"><i class="fab fa-facebook-f"></i></li></a>
-        <a href="#"><li class="footer-items"><i class="fab fa-twitter"></i></li></a>
-        <a href="#"><li class="footer-items"><i class="fab fa-google-plus-g"></i></li></a>
-        <a href="#"><li class="footer-items"><i class="fab fa-linkedin-in"></i></li></a>
-        <a href="#"><li class="footer-items"><i class="fas fa-basketball-ball"></i></li></a>
-    </ul>
-        </div>
+            <div class="col-6">
+                <p class="footer-description">ALL RIGHTS RESERVED. COPYRIGHT © 2014 SPIRIT8</p>
+            </div>
+            <div class="col-6">
+                <ul>
+                    <a href="#">
+                        <li class="footer-items"><i class="fab fa-facebook-f"></i></li>
+                    </a>
+                    <a href="#">
+                        <li class="footer-items"><i class="fab fa-twitter"></i></li>
+                    </a>
+                    <a href="#">
+                        <li class="footer-items"><i class="fab fa-google-plus-g"></i></li>
+                    </a>
+                    <a href="#">
+                        <li class="footer-items"><i class="fab fa-linkedin-in"></i></li>
+                    </a>
+                    <a href="#">
+                        <li class="footer-items"><i class="fas fa-basketball-ball"></i></li>
+                    </a>
+                </ul>
+            </div>
         </div>
     </div>
 </footer>
 
 
+<script src="js/jquery.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".owl-carousel").owlCarousel({
+            items: 1,
+            autoplay: true,
+            autoplayHoverPause:true,
+            loop: true
+        });
+
+    });
+</script>
 </body>
 </html>
