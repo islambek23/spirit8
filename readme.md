@@ -1,9 +1,10 @@
-# This is my markdown title
+# Resume
 
 _**First Name:**_  Islambek
+
 _**Last Name:**_  Dzhumaliev
 
-* _**Contacts:**_
+_**Contacts:**_
  * Telephone: 0552338338 
  * Email:     islambek_dzhumaliev@gmail.com
 
@@ -66,7 +67,7 @@ Good experience, but I was not able to finish because of I am lazy| I like every
 
 _**English:**_
 
-My english well, but because of lack of practice I started to forget what it is.
+My english is well, but because of lack of practice I started to forget what it is.
 
 As me teacher said:
 
