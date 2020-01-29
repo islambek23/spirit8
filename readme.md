@@ -1,11 +1,11 @@
 # This is my markdown title
 
-__ ** First Name ** __  ###### Dzhumaliev Islambek
-* __ ** Contacts ** __
+_**First Name**_  ###### Dzhumaliev Islambek
+* _**Contacts**_
  * Telephone: 0552338338 
  * Email:     islambek_dzhumaliev@gmail.com
 
-__ ** Summary: ** __
+_**Summary:**_
 
 My name is Islambek. Now I am learning how to build websites. I would like to become front-end developer.
 My main aim is to start working in a software development company in a position as junior Front-end developer.
